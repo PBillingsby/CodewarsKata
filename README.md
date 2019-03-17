@@ -22,3 +22,7 @@
     <p>To continuously update code in this repository.</p>
     <p>To push myself.</p>
 </div>
+<div>
+    <h2>Completed projects</h2>
+    <h4><a href="https://github.com/PBillingsby/CodewarsKata/blob/master/Python/vowelcount.py" target="_blank">Vowel Count</a></h4>
+</div>
