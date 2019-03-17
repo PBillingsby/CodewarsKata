@@ -24,5 +24,6 @@
 </div>
 <div>
     <h2>Completed projects</h2>
-    <h4><a href="https://github.com/PBillingsby/CodewarsKata/blob/master/Python/vowelcount.py" target="_blank">Vowel Count</a></h4>
+    <h4><a href="https://github.com/PBillingsby/CodewarsKata/blob/master/Python/vowelcount.py" alt="vowelcount">Vowel Count</a> - 7kyu</h4>
+    <h4><a href="https://github.com/PBillingsby/CodewarsKata/blob/master/Python/multiply.py" alt="multiply">Multiply</a> - 8kyu</h4>
 </div>
