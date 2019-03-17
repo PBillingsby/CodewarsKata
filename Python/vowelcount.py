@@ -1,3 +1,4 @@
+#Takes user input and outputs the amount of vowels in the string.
 def getCount(inputStr):
     num_vowels = 0
     for i in inputStr:
