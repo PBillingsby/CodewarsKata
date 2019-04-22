@@ -29,5 +29,5 @@
     <h4><a href="https://github.com/PBillingsby/CodewarsKata/blob/master/Python/multiply.py" alt="multiply">Multiply</a> - 8kyu</h4>
     <h4><a href="https://github.com/PBillingsby/CodewarsKata/blob/master/Python/oddoreven.py" alt="oddoreven">Odd or Even</a> - 8kyu</h4>
     <h3>JavaScript</h3>
-    
+     <h4><a href="https://github.com/PBillingsby/CodewarsKata/blob/master/JavaScript/multiply.js" alt="multiply">Multiply</a> - 8kyu</h4>
 </div>
